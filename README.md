@@ -7,9 +7,7 @@
     <a href="https://github.com/GuilhermeCamargo744">
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCamargo744&bg_color=00000000&&text_color=fff&&title_color=00ff00&&show_icons=true&&icon_color=00ff00" />
     </a>
-    <a>
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?        username=GuilhermeCamargo744&layout=compact&langs_count=8&card_width=320&bg_color=00000000&&text_color=fff&&title_color=00ff00&&show_icons=true" />
-    </a>
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeCamargo744&layout=compact&langs_count=8&card_width=320&bg_color=00000000&&text_color=fff&&title_color=00ff00&&show_icons=true" />   
 </div>
 
 
