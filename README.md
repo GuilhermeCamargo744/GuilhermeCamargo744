@@ -35,4 +35,4 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/{GuilhermeCamargo744}/{GuilhermeCamargo744}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GuilhermeCamargo744/GuilhermeCamargo744/blob/output/github-contribution-grid-snake.svg)
