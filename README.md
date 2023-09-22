@@ -1,4 +1,4 @@
-### Olá, seja bem vindo ao meu perfil 👋
+### Olá, seja bem-vindo ao meu perfil 👋
 
 - 🔭 Hoje trabalho com desevolvimento mobile React-Native.
 - 🌱 Estudo back-end em node.js e swift para IOS
