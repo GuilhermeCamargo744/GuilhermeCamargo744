@@ -36,17 +36,17 @@
 
 ### Sobre mim:
 <div>
-Olá, bem-vindos ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e inovação, com foco em soluções web e mobile. Minha jornada profissional começou na Distribuidora ARCOS, onde atuei como Desenvolvedor Junior full stack web e mobile. Nessa experiência, tive a oportunidade de contribuir ativamente para o desenvolvimento do sistema web da empresa, voltado para a comercialização de produtos de mercados atacadistas, além de trabalhar no desenvolvimento do aplicativo em React Native.
+Olá! Sou um entusiasta de tecnologia, apaixonado por soluções inovadoras para web e mobile. Iniciei minha carreira como Desenvolvedor Junior full stack na Distribuidora ARCOS, contribuindo ativamente para o desenvolvimento de sistemas web e aplicativos em React Native.
 
-Ao longo do tempo, minha paixão pela área mobile se consolidou, levando-me a fazer parte da equipe da Noli, onde estou atuando desde julho de 2022 até o momento como Desenvolvedor Mobile React Native. Nessa posição, tenho a oportunidade de trabalhar com as mais recentes tecnologias relacionadas ao framework, como Axios, styled-components, reduxToolkit e Firebase, entre outras ferramentas, para proporcionar experiências excepcionais aos usuários das plataformas Android e IOS.
+Na Noli, aprimorei minhas habilidades como Desenvolvedor Mobile React Native, utilizando ferramentas como Axios, styled-components, reduxToolkit e Firebase para criar experiências excepcionais em Android e iOS.
 
-Além disso, sou adepto do versionamento de código utilizando o Git e armazenamento no GitLab, o que me permite trabalhar de forma colaborativa e assegurar um controle eficiente de mudanças em nossos projetos.
+Tenho experiência como freelancer, desenvolvendo websites com Next.js e React.js para o Vp Wine Club, sempre buscando proporcionar experiências intuitivas aos usuários. Atualmente, na Foursys, estou envolvido na migração de aplicativos importantes para a estrutura React-Native, como os da Caixa Econômica e CNP Seguradora.
 
-Meu comprometimento com a excelência e o constante desejo de aprendizado impulsionam-me a buscar sempre novos desafios e a aprimorar minhas habilidades técnicas. Acredito que o trabalho em equipe é essencial para alcançar resultados excepcionais, e sou grato por fazer parte de times engajados e inovadores que colaboram para a construção de soluções impactantes.
+Além da prática profissional, estou comprometido com meu crescimento acadêmico, cursando um MBA em Engenharia de Software na FIAP, aprofundando meu conhecimento nessa área dinâmica.
 
-Estou sempre em busca de oportunidades para contribuir em projetos desafiadores e com propósito, onde possa aplicar meu conhecimento e habilidades em desenvolvimento para impulsionar a criação de soluções que façam a diferença no cotidiano das pessoas e no mundo dos negócios.
+Minha paixão pela inovação e minha busca constante por aprendizado me motivam a enfrentar desafios e aprimorar minhas habilidades técnicas. Acredito no poder do trabalho em equipe para alcançar resultados notáveis e sinto-me grato por colaborar com times engajados e inovadores.
 
-Se você está buscando um profissional dedicado, proativo e apaixonado por tecnologia para agregar valor ao seu time, adoraria trocar ideias e explorar como posso contribuir em seu projeto. Vamos conectar-nos e iniciar uma conversa sobre as possibilidades!
+Estou em busca de novos desafios em projetos significativos, onde eu possa aplicar meu conhecimento para criar soluções impactantes. Se procura um profissional dedicado e apaixonado por tecnologia, adoraria discutir como posso contribuir para sua equipe e seus projetos.
 
-Muito obrigado pela visita ao meu perfil e pelo interesse em conhecer mais sobre mim. Vamos conectar-nos e compartilhar nossas experiências e projetos!
+Agradeço pelo interesse em conhecer mais sobre mim. Vamos conectar-nos e compartilhar experiências!
 </div>
