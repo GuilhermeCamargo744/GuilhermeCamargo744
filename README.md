@@ -44,6 +44,8 @@ Tenho experiência como freelancer, desenvolvendo websites com Next.js e React.j
 
 Além da prática profissional, estou comprometido com meu crescimento acadêmico, cursando um MBA em Engenharia de Software na FIAP, aprofundando meu conhecimento nessa área dinâmica.
 
+Recentemente, fui contratado como Professor Universitário na UniFecaf para lecionar a disciplina de Mobile Development para as turmas de quinto semestre. Neste curso, utilizo o framework React Native e foco no desenvolvimento de APIs com Node.js. Meu objetivo é iniciar os alunos no desenvolvimento de aplicativos para celular, proporcionando-lhes tanto o conhecimento teórico quanto prático para enfrentar desafios reais do mercado.
+
 Minha paixão pela inovação e minha busca constante por aprendizado me motivam a enfrentar desafios e aprimorar minhas habilidades técnicas. Acredito no poder do trabalho em equipe para alcançar resultados notáveis e sinto-me grato por colaborar com times engajados e inovadores.
 
 Estou em busca de novos desafios em projetos significativos, onde eu possa aplicar meu conhecimento para criar soluções impactantes. Se procura um profissional dedicado e apaixonado por tecnologia, adoraria discutir como posso contribuir para sua equipe e seus projetos.
