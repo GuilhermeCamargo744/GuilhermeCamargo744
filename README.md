@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo ao meu perfil 👋
 
-- 🔭 Hoje trabalho com desevolvimento mobile React-Native.
+- 🔭 Hoje trabalho como desenvolvedor mobile React-Native e Professor universitário lecionando a matéria Mobile Development.
 - 🌱 Estudo back-end em node.js e swift para IOS
 
 <div>
